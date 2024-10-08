@@ -20,6 +20,11 @@ const myArr1 = new Array(0, 1, 2, 3, 4, 5)
 //console.log(newArr)
 //console.log(typeof newArr)
 
+// git add .
+// git commit -m "message"
+// git push -u origin main
+
+
 //slice and splice
 console.log("A", myArr1)
 const myArr0 = myArr1.slice(1, 3)
